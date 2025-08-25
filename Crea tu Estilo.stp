@@ -1,0 +1,244 @@
+TIME=1756099276
+VERSION=208002
+OWNER=eComm PRO
+NODE0="Diseña tu mundo, muestra tu estilo"
+STATUS=0
+MOD=0
+c=443046
+s=5811
+lc=0
+ls=0
+lsd1=0
+lsd2=0
+MOD=0
+FILE=index.html
+PAGE="Diseña tu mundo, muestra tu estilo"
+TEMP=category.htm
+#BRANCH
+NODE1=Blusa Elegancia
+STATUS=0
+MOD=0
+c=533056
+s=7003
+lc=0
+ls=0
+lsd1=0
+lsd2=0
+MOD=0
+FILE=5.htm
+PAGE=Blusa Elegancia
+IMAGE=C:\Users\dayri\OneDrive\Imágenes\8b98a44116140132acdba88ef2d41422.jpg
+KEY=Blusa, mujer
+CODE=5
+TEMP=product.htm
+NN1=Colores disponibles
+NN2=Tallas Disponibles
+&1Blanco|
+&1Negro |
+&1Azul |
+&2S|
+&2M|
+&2L|
+NODE1=Vestido Primavera
+STATUS=0
+MOD=0
+c=527926
+s=6926
+lc=0
+ls=0
+lsd1=0
+lsd2=0
+MOD=0
+FILE=6.htm
+PAGE=Vestido corto
+IMAGE=C:\Users\dayri\OneDrive\Imágenes\R.jpeg
+DESC=vestido
+CODE=6
+TEMP=product.htm
+NN1=Colores disponibles
+NN2=tallas disponibles
+&1Rosa |
+&1Morado |
+&1Amarillo |
+&2S|
+&2M|
+&2L|
+NODE5=New Link
+STATUS=0
+MOD=0
+c=0
+s=0
+lc=0
+ls=0
+lsd1=0
+lsd2=0
+MOD=0
+FILE=https://youtube.com/shorts/y_mAES90VWM?feature=share
+NODE1=Camisa Clásica
+STATUS=0
+MOD=0
+c=532718
+s=6995
+lc=0
+ls=0
+lsd1=0
+lsd2=0
+MOD=0
+FILE=7.htm
+PAGE=Camisa Clásica
+IMAGE=C:\Users\dayri\OneDrive\Imágenes\0263-02.jpg
+KEY=Camisa Hombre
+CODE=7
+TEMP=product.htm
+NN1=Colores disponibles
+NN2=tallas disponibles
+&1negro |
+&1Azul |
+&1Blanco |
+&2S|
+&2M|
+&2L|
+NODE1=conjunto clasico
+STATUS=0
+MOD=0
+c=534784
+s=7020
+lc=0
+ls=0
+lsd1=0
+lsd2=0
+MOD=0
+FILE=8.htm
+PAGE=conjunto clasico
+IMAGE=C:\Users\dayri\OneDrive\Imágenes\Capturas de pantalla\Captura de pantalla 2025-08-24 230056.png
+KEY=conjunto
+CODE=8
+TEMP=product.htm
+NN1=Colores disponibles
+NN2=Tallas
+&1Blanco |
+&1Azul|
+&1Verde |
+&24|
+&28|
+&210|
+&212|
+#EOB
+NODE4=Crea tu estilo
+STATUS=0
+MOD=0
+c=431130
+s=5641
+lc=0
+ls=0
+lsd1=0
+lsd2=0
+MOD=0
+FILE=about.html
+IMAGE=C:\Users\dayri\OneDrive\Imágenes\logotipo.png
+KEY=Crea
+BODY=Es una boutique online que ofrece moda para toda la familia, diseñada para brindar comodidad, seguridad y confianza en las compras digitales.@@@Crea tu Estilo es una empresa guatemalteca enfocada en la venta online de ropa para dama, caballero y niños, con un catálogo variado que incluye prendas modernas, cómodas y de calidad, adaptadas a las últimas tendencias. La boutique busca transformar la experiencia de compra, ofreciendo atención personalizada, entregas rápidas y un entorno digital seguro que genere confianza en los clientes@@@
+TEMP=page.htm
+NODE4=Noticias
+STATUS=0
+MOD=0
+c=444222
+s=5780
+lc=0
+ls=0
+lsd1=0
+lsd2=0
+MOD=0
+FILE=news.html
+PAGE=Noticias
+IMAGE=C:\Users\dayri\OneDrive\Imágenes\logotipo.png
+DESC=Promociones
+BODY=Crea tu Estilo se prepara para el lanzamiento oficial@@@La boutique online Crea tu Estilo anuncia que su plataforma estará disponible próximamente, ofreciendo moda para toda la familia. El equipo ha trabajado en la creación de un catálogo amplio y en alianzas con proveedores estratégicos para garantizar calidad, variedad y tendencias actualizadas.@@@Promoción de lanzamiento: descuentos especiales@@@Con motivo de su lanzamiento, Crea tu Estilo ofrecerá descuentos del 10% en la primera compra, envíos gratuitos en pedidos superiores a Q300 y regalos sorpresa para los primeros 100 clientes. Esta promoción busca incentivar la confianza y premiar la preferencia de los primeros usuarios.@@@
+TEMP=page.htm
+NODE4=Contactos
+STATUS=0
+MOD=0
+c=404748
+s=5343
+lc=0
+ls=0
+lsd1=0
+lsd2=0
+MOD=0
+FILE=contact.html
+PAGE=Contactos
+IMAGE=C:\Users\dayri\OneDrive\Imágenes\logotipo.png
+KEY=Redes sociales
+BODY=Crea tu Estilo prepara una campaña digital en Facebook, Instagram y TikTok, con publicaciones interactivas, transmisiones en vivo y consejos de moda, con el objetivo de crear una comunidad activa y fortalecer el vínculo con los clientes
+TEMP=page.htm
+NODE0=Preguntas Frecuentes
+STATUS=0
+MOD=0
+c=496108
+s=6450
+lc=0
+ls=0
+lsd1=0
+lsd2=0
+MOD=0
+FILE=9.htm
+IMAGE=C:\Users\dayri\OneDrive\Imágenes\logotipo.png
+KEY=Preguntas
+BODY=1.	 ¿Cómo puedo hacer un pedido?@@@@@@Aceptamos pagos con tarjeta de crédito/débito, transferencias bancarias y otros métodos locales.@@@@@@2.	 ¿Hacen envíos a todo el país?@@@@@@Sí, realizamos envíos a todo el país.@@@@@@3.	 ¿Cuáles son las formas de pago disponibles?@@@@@@Aceptamos pagos con tarjeta de crédito/débito, transferencias bancarias.@@@@@@4.	 ¿Cuánto tiempo tarda en llegar mi pedido?@@@@@@Suelen demorarse de 2 a 3 días hábiles.@@@@@@5.	 ¿Cuál es el costo de envió?@@@@@@El costo de envió varía según la ubicación.@@@@@@6.	¿Cómo se cual es mi talla?@@@@@@Contamos con una guía de tallas en cada producto. Le recomendamos medir su cuerpo y compararlo con nuestra tabla para elegir la talla más adecuada.@@@@@@7.	¿Puedo cambiar o devolver el producto?@@@@@@Sí, aceptamos cambios o devoluciones dentro de los primeros 2 días luego de recibir su pedido, siempre que el producto esté en perfectas condiciones y con sus etiquetas originales.@@@@@@8.	¿Qué debo hacer si recibo un producto incorrecto o defectuoso?@@@@@@Lamentamos cualquier inconveniente. Por favor contáctenos lo antes posible con fotos del producto recibido y le ayudaremos a resolverlo rápidamente.@@@@@@9.	¿Cómo puedo contactar a servicio al cliente?@@@Enviarnos un mensaje a través de nuestras redes sociales o formulario de contacto. Respondemos en un plazo máximo de 24 horas.@@@
+CODE=Preguntas frecuentes
+TEMP=category.htm
+VAR=$NAME|Crea tu Estilo
+VAR=$COMPANY|Crea tu Estilo
+VAR=$EMAIL|creatuestilo@gmail.com
+VAR=$STREET|
+VAR=$CITY|Guatemala
+VAR=$STATE|Guatemala
+VAR=$ZIP|01012
+VAR=$COUNTRY|Guatemala
+VAR=$TEL|63528891
+VAR=$FAX|15273986
+VAR=$MOBILE|23678190
+VAR=$WEBSITE|www.creatuestilo.com
+VAR=$COPYRIGHT|Copyright ©2001 Crea tu Estilo
+VAR=$STORETITLE|"Diseña tu mundo, muestra tu estilo"
+VAR=$CURRENCY|$
+$gt0,,,,,,,,,,,,,,|1
+RULE=0,
+$gt1,,,,,,,,,,,,,,|0
+$gt2,,,,,,,,,,,,,,|0
+LAYOUT=Simple/Slider
+STITLE="Diseña tu mundo, muestra tu estilo"
+REBUILD=C:\Users\dayri\OneDrive\Escritorio\Escritorio\Crea tu Estilo
+P_USER=
+P_ACCT=
+P_SERV=
+P_PORT=
+P_DIR=
+P_SAVE=0
+P_PASV=0
+COMP=
+OMESSAGE=This form is running on an eComm Secure Server.<br>@@@All information will be encrypted before transmission.
+CMESSAGE=Thank you for your order.
+VO=0
+VC=0
+TAXD=0
+TAXO=1
+CURR=$
+HASBULLETS=1
+HAS3DCART=0
+CARTONSCREEN=0
+SEARCH=1
+CRLF=0
+NAVSTYLE=0
+FNAME=0,Economy Air (2-3 Weeks)
+FNAME=1,Express Courier (1-3 Days)
+FNAME=2,Surface Mail (3-6 Weeks)
+CC=0:Visa
+CC=0:MasterCard
+CC=0:American Express
+CC=0:Discover
+usd=ecomm.js,0
+usd=register.html,0
+usd=trolley.html,0
+usd=ecomm.idx,0
+usd=ecomm.tpl,0
